@@ -1,0 +1,11 @@
+.nav-container {
+  background-color: "red";
+}
+
+.container {
+  max-width: 1052px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
